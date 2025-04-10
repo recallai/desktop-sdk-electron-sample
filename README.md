@@ -17,3 +17,5 @@ API_KEY=<your key>
 npm install
 npm start
 ```
+
+![Screenshot 2025-04-10 at 10 40 30 PM](https://github.com/user-attachments/assets/b200f7cd-98a4-4e72-aef7-010c652ee202)
