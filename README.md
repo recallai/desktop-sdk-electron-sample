@@ -18,4 +18,4 @@ npm install
 npm start
 ```
 
-![Screenshot 2025-04-10 at 10 40 30 PM](https://github.com/user-attachments/assets/b200f7cd-98a4-4e72-aef7-010c652ee202)
+![Screenshot 2025-04-10 at 10 41 24 PM](https://github.com/user-attachments/assets/8fdbcf78-bf92-40b0-a387-1405ae42efdc)
